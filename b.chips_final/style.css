@@ -1,0 +1,34 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+
+.parent{
+    background-color: rgb(53, 80, 255);
+    margin-left: 4rem;
+    margin-top: 6rem;
+    width: 32rem;
+    height: 4.5rem;
+    border-radius: 5px;
+    box-shadow: 0.25rem 0.25rem 0.25rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.common:hover{
+    border: 1px black;
+    border-style:groove;
+    background-color: rgb(2, 179, 179);
+    opacity: 150%;
+}
+
+.tabs{
+    background-color: aqua;
+    border-radius: 0.25rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
