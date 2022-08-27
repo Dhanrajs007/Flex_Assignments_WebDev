@@ -24,7 +24,10 @@
 
 .tabs{
     background-color: aqua;
-    border-radius: 0.25rem;
+    border-bottom-left-radius: 40%;
+    border-top-right-radius: 40%;
+    border-top-left-radius: 40%;
+    border-bottom-right-radius: 40%;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     padding-top: 0.5rem;
